@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Editor y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dependencias locales
+venv/
+.env.*
+
+# Caché de pip
+pip-wheel-metadata/
+*.egg-info/
+
+# Archivos de cobertura y testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Archivos de despliegue
+*.db
