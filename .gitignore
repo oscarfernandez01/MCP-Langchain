@@ -31,3 +31,6 @@ htmlcov/
 
 # Archivos de despliegue
 *.db
+
+#Archivos de desarrollo
+main_test.py
